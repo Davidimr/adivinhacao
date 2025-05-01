@@ -1,0 +1,17 @@
+body {
+  background-color: #f5f5fa;
+  font-family: "Noto Sans", serif;
+}
+
+button {
+  cursor: pointer;
+  transition: filter 0.2s;
+}
+
+input {
+  font-family: "Noto Sans", serif;
+}
+
+button:hover{
+  transition: brightness(0.9);
+}
